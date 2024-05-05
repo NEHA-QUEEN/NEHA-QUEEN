@@ -9,7 +9,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+NEHA+QUEEN;+IT'S+NAME+JUST+A+NAME+FRIENDS;IT'S+A+BRND;THANK+YOU+EVRYONE;LOVE+U+ALL+FRIENDS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+NEHA+QUEEN;+THIS+TOOLS+FOR+FREE+ALL+USSERS;I+M+NOT;A+DEVOPLER+EVRYONE;TAKE+CARE+ALL+FRIENDS)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/NEHA-QUEEN"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NEHA-QUEEN &theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
