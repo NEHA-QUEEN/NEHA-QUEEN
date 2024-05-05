@@ -1,4 +1,4 @@
-|[logo](https://github.com/NEHA-QUEEN/NEHA-QUEEN/blob/main/1714921407263.jpg)
+![logo](https://github.com/NEHA-QUEEN/NEHA-QUEEN/blob/main/1714921407263.jpg)
 <p align="center"><img src="https://img.shields.io/badge/I AM %20INDIAN- GIRL -green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
